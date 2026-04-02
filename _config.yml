@@ -6,7 +6,7 @@ baseurl: "/Rida-blog"
 
 # Settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
